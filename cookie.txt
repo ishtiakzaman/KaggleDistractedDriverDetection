@@ -1,0 +1,24 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
+#
+.kaggle.com	TRUE	/	FALSE	1781576034	optimizelyEndUserId	oeu1466216034065r0.8553639686136674
+.kaggle.com	TRUE	/	FALSE	1497752034.972431	__insp_wid	22567980
+.kaggle.com	TRUE	/	FALSE	1497752034.972537	__insp_slim	1466216034973
+.kaggle.com	TRUE	/	FALSE	1497752034.973299	__insp_nv	true
+.kaggle.com	TRUE	/	FALSE	1497752034.974005	__insp_ref	d
+.kaggle.com	TRUE	/	FALSE	1497752034.974097	__insp_targlpu	https%3A%2F%2Fwww.kaggle.com%2F
+.kaggle.com	TRUE	/	FALSE	1497752034.974199	__insp_targlpt	Kaggle%3A%20Your%20Home%20for%20Data%20Science
+.kaggle.com	TRUE	/	FALSE	1497752035.303258	__insp_norec_sess	true
+.kaggle.com	TRUE	/	TRUE	1529288048.732937	.ASPXAUTH	3B3776F11C265E1A54B5DA6064A5CBE539169A72337A39C8287FF51C70D930D5CD73B00C43663EA98C40FADC820FC51B5C7EA07B139B18751AEF91DE698824BC1A190024D5A8291CC3C3211DD4C1AAA01D24F4C3
+.kaggle.com	TRUE	/	FALSE	1782102721	optimizelySegments	%7B%225684981785%22%3A%22false%22%2C%225646609362%22%3A%22direct%22%2C%225668443100%22%3A%22gc%22%7D
+.kaggle.com	TRUE	/	FALSE	1782102721	optimizelyBuckets	%7B%225909990047%22%3A%225905010050%22%7D
+.blog.kaggle.com	TRUE	/	FALSE	1530250739	__utma	176227318.1334964297.1467156808.1467173635.1467178201.6
+.blog.kaggle.com	TRUE	/	FALSE	1482946739	__utmz	176227318.1467156808.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	c936757143a0266900278c6234b61469cd80ac379b8304f66fbb0853970fe1b0
+.kaggle.com	TRUE	/	FALSE	1468126098	__utmt	1
+www.kaggle.com	FALSE	/	FALSE	0	__RequestVerificationToken	bqQRP-uq7a1YgSmJe4EXM8GHK6rKhPjfMksVJY_tH1nT23V9zSn1iAn4jmBTM_TdvDMn9WFJUxz8WpEqT1DZtF1hMXY1
+.kaggle.com	TRUE	/	FALSE	1531197805	__utma	158690720.1771118348.1466216035.1467570893.1468125499.33
+.kaggle.com	TRUE	/	FALSE	1468127605	__utmb	158690720.13.10.1468125499
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1483893805	__utmz	158690720.1467174080.25.4.utmcsr=felixlaumon.github.io|utmccn=(referral)|utmcmd=referral|utmcct=/2015/01/08/kaggle-right-whale.html
